@@ -1,0 +1,28 @@
+
+#navbar-toggler{
+    text-align: left;
+}
+
+
+img {
+    border: 5px solid #555
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+    padding-left: 0;
+}
+
+span  {
+   
+    padding-right: 5px;
+}
+
+.col {
+    
+}
+
+.container_about{
+    margin-top: 20px;
+}
